@@ -3,9 +3,9 @@
 # Hugo Documentation: https://gohugo.io/getting-started/configuration/#all-configuration-settings
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
-title: Yuanmo He # Website name
-baseurl: 'https://yuanmohe.com' # Website URL
-copyright: ''© Yuanmo He {year} '' # Footer text, e.g. '© {year} Me'
+title: "Yuanmo He" # Website name
+baseurl: "https://yuanmohe.com" # Website URL
+copyright: "© Yuanmo He {year}" # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
