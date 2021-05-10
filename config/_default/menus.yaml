@@ -11,7 +11,7 @@ main:
     url: '#cv'
     weight: 40
   - name: Publications
-    url: '#projects'
+    url: '#publications'
     weight: 60
   - name: Blog
     url: '#blog'
