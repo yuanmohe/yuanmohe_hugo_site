@@ -66,8 +66,8 @@ email: ""
 highlight_name: false
 ---
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Yuanmo is a PhD candidate in Social Research Methods at the London School of Economics and Political Science (LSE), supervised by Kenneth Benoit and Milena Tsvetkova.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+As an aspiring computational social scientist, Yuanmo is interested in applying advanced data analysis and computational methods in the study of inequality and social mobility. He aims to use social media, web browsing and all sorts of digital traces to study the reproduction of social inequality. Specifically, he intends to explore how individuals' socio-economic status is related or even shaped by their situated social networks.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
