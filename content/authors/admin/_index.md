@@ -65,10 +65,5 @@ email: ""
 # Highlight the author in author lists? (true/false)
 highlight_name: false
 ---
-
-Yuanmo is a PhD student in Social Research Methods at the London School of Economics and Political Science (LSE), supervised by Kenneth Benoit and Milena Tsvetkova. 
-
-He completed the MSc in Applied Social Data Science at the LSE and holds a BSc in Social Science from University College London.
-
-As an aspiring computational social scientist, Yuanmo is interested in applying advanced data analysis and computational methods in the study of inequality and social mobility. He aims to use social media, web browsing and all sorts of digital traces to study the reproduction of social inequality. Specifically, he intends to explore how individuals' socio-economic status is related or even shaped by their situated social networks.
+Hi, welcome to Yuanmo's personal webiste. I am still building it! Come back later!
 
