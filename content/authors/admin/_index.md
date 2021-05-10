@@ -41,20 +41,18 @@ organizations:
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
 - icon: envelope
-  icon_pack: fas
-  link: '/#contact'
+  icon_pack: 'fas'
+  link: 'mailto:y.he54@lse.ac.uk'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
-  icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://twitter.com/yuanmohe
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/yuanmohe
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/
+  link: https://www.linkedin.com/in/yuanmo-he/
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
@@ -70,7 +68,9 @@ email: ""
 highlight_name: false
 ---
 
-Yuanmo is a PhD candidate in Social Research Methods at the London School of Economics and Political Science (LSE), supervised by Kenneth Benoit and Milena Tsvetkova.
+Yuanmo is a PhD student in Social Research Methods at the London School of Economics and Political Science (LSE), supervised by Kenneth Benoit and Milena Tsvetkova. 
+
+He completed the MSc in Applied Social Data Science at the LSE and holds a BSc in Social Science from University College London.
 
 As an aspiring computational social scientist, Yuanmo is interested in applying advanced data analysis and computational methods in the study of inequality and social mobility. He aims to use social media, web browsing and all sorts of digital traces to study the reproduction of social inequality. Specifically, he intends to explore how individuals' socio-economic status is related or even shaped by their situated social networks.
 
