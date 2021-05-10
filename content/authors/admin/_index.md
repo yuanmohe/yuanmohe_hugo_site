@@ -18,9 +18,7 @@ organizations:
 
 # Interests to show in About widget
 # interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
+
 
 # Education to show in About widget
 # education:
@@ -74,4 +72,3 @@ He completed the MSc in Applied Social Data Science at the LSE and holds a BSc i
 
 As an aspiring computational social scientist, Yuanmo is interested in applying advanced data analysis and computational methods in the study of inequality and social mobility. He aims to use social media, web browsing and all sorts of digital traces to study the reproduction of social inequality. Specifically, he intends to explore how individuals' socio-economic status is related or even shaped by their situated social networks.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "media/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
