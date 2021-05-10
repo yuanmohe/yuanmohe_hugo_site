@@ -19,17 +19,17 @@ bio: My research interests include distributed robotics, mobile computing and pr
 # Interests to show in About widget
 
 # Education to show in About widget
-education:
-  courses:
-  - course: PhD in Social Research Methods
-    institution: London School of economics
-    year: Ongoing since Sept 2020
-  - course: MSc in Applied Social Data Science
-    institution: London School of economics
-    year: 2020
-  - course: BSc in Social Sciences
-    institution: University College London
-    year: 2019
+# education:
+#   courses:
+#   - course: PhD in Social Research Methods
+#     institution: London School of economics
+#     year: Ongoing since Sept 2020
+#   - course: MSc in Applied Social Data Science
+#     institution: London School of economics
+#     year: 2020
+#   - course: BSc in Social Sciences
+#     institution: University College London
+#     year: 2019
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
