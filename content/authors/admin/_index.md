@@ -71,4 +71,4 @@ user_groups:
 
 Hello, world! Welcome to Yuanmo's personal website. I am building it using my professor's web as a template, so some part of it may look weird. Please come back later!
 
-# [Download Kenneth Benoit’s **C.V.** in .pdf format.](/pdfs/KenBenoitCV.pdf "CV in pdf format")
+
