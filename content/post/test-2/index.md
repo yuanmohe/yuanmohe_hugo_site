@@ -6,8 +6,7 @@ summary: fsafdsafdsafsdaf
 draft: false
 featured: false
 categories:
-  - cate1
-  - cate2
+  - Book-review
 image:
   filename: featured
   focal_point: Smart
