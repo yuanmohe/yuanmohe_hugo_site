@@ -1,6 +1,7 @@
 ---
 title: CV
 cms_exclude: true
+widget: blank
 
 # View.
 #   1 = List
