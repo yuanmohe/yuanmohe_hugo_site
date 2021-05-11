@@ -8,7 +8,7 @@
 theme: Minimal
 day_night: true
 font: ''
-font_size: m
+font_size: s
 
 # SEO
 
@@ -26,7 +26,7 @@ twitter: ''
 
 main_menu:
   enable: true
-  align: 'r'
+  align: l
   show_logo: true
   show_language: false
   show_day_night: true
