@@ -14,7 +14,7 @@ organizations:
   url: https://www.lse.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student in Computational Social Science. Blogging all sorts of topics.
+bio: Blogging all sorts of topics.
 
 # Interests to show in About widget
 # interests:
