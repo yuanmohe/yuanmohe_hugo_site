@@ -1,8 +1,8 @@
 ---
 
 widget: blank
-headless: true
 weight: 10
+title: Introduction
 
 design:
   columns: 1
@@ -10,7 +10,6 @@ design:
 
 ---
 
-# Introduction
 
-Hello, welcome to my blog. My blog contents the following categories
+Hello, welcome to my blog. My blog has the following categories
 
