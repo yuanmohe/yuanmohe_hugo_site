@@ -1,7 +1,6 @@
 ---
 title: Posts
 cms_exclude: true
-aliases: [/blog/]
 
 # View.
 #   1 = List
