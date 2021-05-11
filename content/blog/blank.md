@@ -2,9 +2,13 @@
 
 widget: blank
 headless: true
+weight: 10
+title: Introduction to my blog
 
 design:
   columns: 1
+  
+  
 
 ---
 
