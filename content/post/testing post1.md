@@ -2,7 +2,7 @@
 
 title: testing post 1
 summmary: this is for testing
-categories: ["Essai"]
+categories: ["cate1"]
 lastmod: true
 publishDate: true
 
