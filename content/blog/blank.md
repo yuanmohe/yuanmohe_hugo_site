@@ -2,7 +2,7 @@
 
 widget: blank
 weight: 10
-title: Introduction
+subtitle: Introduction
 
 design:
   columns: 1
