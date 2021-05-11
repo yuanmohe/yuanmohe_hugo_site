@@ -12,4 +12,4 @@ header:
   caption: ""
   image: ""
 ---
-As a fresh PhD student, I do not have any publications yet. Working on it! 💪
+As a fresh PhD student, I do not have any publication yet. Working on it! 💪
