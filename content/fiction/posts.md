@@ -9,8 +9,6 @@ headless: true
 # Order that this section appears on the page.
 weight: 60
 
-title: Recent Posts
-subtitle:
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -20,7 +18,7 @@ content:
   # Filter on criteria
   filters:
     author: ""
-    category: ""
+    category: "["fiction"]"
     tag: ""
     exclude_featured: false
     exclude_future: false
