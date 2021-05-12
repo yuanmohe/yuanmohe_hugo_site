@@ -1,4 +1,5 @@
 ---
+widget: pages
 title: testing page
 
 content:
