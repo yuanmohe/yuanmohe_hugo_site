@@ -2,7 +2,7 @@
 
 title: novel1
 summmary: novel 1 summary
-categories: ["novel1"]
+categories: ["novel1", "fiction"]
 lastmod: true
 publishDate: true
 
