@@ -1,6 +1,6 @@
 ---
 
-title: test
+title: novel
 cms_exclude: true
 
 content:
@@ -15,7 +15,7 @@ content:
   # Optionally filter posts by a taxonomy term.
   filters:
     tag: ''
-    category: ''
+    category: '['novel1']'
     publication_type: ''
     exclude_featured: false
     exclude_past: false
