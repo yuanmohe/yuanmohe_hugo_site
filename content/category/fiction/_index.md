@@ -1,6 +1,6 @@
 ---
 
-Title: fiction blog
+title: fiction blog
 
 ---
 
