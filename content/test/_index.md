@@ -1,6 +1,7 @@
 ---
 widget: pages
-title: testing page
+headless: true
+
 
 content:
   # Page type to display. E.g. post, event, or publication.
