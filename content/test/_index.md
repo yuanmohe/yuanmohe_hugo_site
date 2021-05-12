@@ -2,6 +2,7 @@
 widget: pages
 headless: true
 
+title = test
 
 content:
   # Page type to display. E.g. post, event, or publication.
