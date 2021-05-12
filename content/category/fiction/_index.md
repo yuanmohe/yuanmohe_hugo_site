@@ -1,6 +1,7 @@
 ---
 
-type: "widget_page"
+Title: fiction blog
 
 ---
 
+Welcome to my fiction blog! 
