@@ -12,5 +12,5 @@ design:
 
 # Introduction
 
-Hello, welcome to my blog. My blog has the following categories
+Hello, welcome to my fiction blog. 
 
