@@ -69,10 +69,3 @@ The substantive interest driving my PhD is how socioeconomic inequality is manif
 My broader research interests include inequality and social mobility, social network analysis and computational social science. I am interested in two sides of the advancement of data science and artificial intelligence: 1. how can they benefit our understanding of society and humanity; 2. what are their impacts on society and humanity. 
 
 I also have plenty of interests outside academia. I dabble in music, art, literature, philosophy, history, film, football, and entrepreneurship. I will be sharing some cool stuff from both my research and other interests at the Blog section of this website, with the ultimate aim to also build up a Youtube channel in the future. Ambitious plan for a time-poor PhD student, but we'll see.
-
-In case you do care. So far, from my very limited dabbling: 
-- Favourite music bands: [Re-TROS](https://open.spotify.com/artist/3iW4UAZQOJEXLW7L3H04gm) and [New Pants](https://open.spotify.com/artist/20QolHxltjdkfHLxyf6kPY). 
-  - Both are Chinese indie bands, but all songs of Re-TROS are in English; New Pants also have quite some English songs. You'll not regret listening to them.
-- Philosophical branches and Philosophers that highly affect me:
-  - the three pillars in ancient Chinese society (Confucianism, Taoism, Buddhism), stoicism, Friedrich Nietzsche, Arthur Schopenhauer, and Bertrand Russell.
-
