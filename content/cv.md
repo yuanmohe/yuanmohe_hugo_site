@@ -10,7 +10,7 @@ commentable: false  # Show comments?
 
 
 
-## Education
+## **Education**
 
 PhD Social Research Methods, London School of Economics, 2021-24
 
@@ -25,7 +25,7 @@ BSc Social Sciences, University College London, 2016-19
 
 
 
-## Conference Presentations
+## **Conference Presentations**
 
 Accepted paper: Estimating Individual Socioeconomic Status of Twitter Users
 
@@ -35,7 +35,7 @@ Accepted paper: Estimating Individual Socioeconomic Status of Twitter Users
 
 
 
-## Honors and Awards
+## **Honors and Awards**
 
 LSE PhD Studentship, London School of Economics, 2020 – 2024
 
