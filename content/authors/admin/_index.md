@@ -14,7 +14,7 @@ organizations:
   url: https://www.lse.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Blogging all sorts of topics.
+bio: PhD student, casual blogger and amateur novelist.
 
 # Interests to show in About widget
 # interests:
@@ -66,6 +66,6 @@ Hello, world! I am a PhD student in the [Department of Methodology](https://www.
 
 The substantive interest driving my PhD is how socioeconomic inequality is manifested and reproduced in daily behaviours and social interactions. Specifically, my PhD aims to explore the relation between socioeconomic inequality and social networks, employing a range of advanced data analysis and computational methods (e.g. social network analysis, machine learning, natural language processing) on digital trace data (especially Twitter). 
 
-My broader research interests include inequality and social mobility, social network analysis, and computational social science. I am interested in two sides of the advancement of data science and artificial intelligence: 1. how can they benefit our understanding of society and humanity; 2. what are their impacts on society and humanity. 
+My broader research interests include inequality and social mobility, social network analysis, and computational social science. I am interested in the advancement of data science and artificial intelligence in two sides: 1. how can they benefit our understanding of society and humanity; 2. what are their impacts on society and humanity. 
 
 I also have plenty of interests outside academia. I dabble in music, art, literature, philosophy, history, film, football, and entrepreneurship. I will be sharing some cool stuff from both my research and other interests at the Blog section of this website, with the ultimate aim to also build up a Youtube channel in the future. Ambitious plan for a time-poor PhD student, but we'll see.
