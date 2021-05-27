@@ -62,7 +62,7 @@ email: ""
 highlight_name: false
 ---
 
-I am a PhD student in Social Research Methods at the Department of Methodology, London School of Economics. The substantive interest driving my PhD is how socioeconomic inequality is manifested and reproduced in daily behaviours and social interactions. Specifically, my PhD aims to explore the relation between socioeconomic inequality and social networks, employing a range of advanced data analysis and computational methods (e.g. social network analysis, machine learning, natural language processing) on digital trace data (especially Twitter).
+Hello, world! I am a PhD student in Social Research Methods at the Department of Methodology, London School of Economics. The substantive interest driving my PhD is how socioeconomic inequality is manifested and reproduced in daily behaviours and social interactions. Specifically, my PhD aims to explore the relation between socioeconomic inequality and social networks, employing a range of advanced data analysis and computational methods (e.g. social network analysis, machine learning, natural language processing) on digital trace data (especially Twitter).
 
 My broader research interests include inequality and social mobility, social network analysis and computational social science. I am interested in two sides of the advancement of data science and artificial intelligence: 1. how can they benefit our understanding of society and humanity; 2. what are their impacts on society and humanity. 
 
