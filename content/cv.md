@@ -2,7 +2,7 @@
 title: CV
 Summary: CV
 
-reading_time: false  # Show estimated reading time?
+reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
 commentable: false  # Show comments?
 
