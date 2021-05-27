@@ -6,7 +6,7 @@ title: Yuanmo He
 superuser: true
 
 # Role/position/tagline
-role: PhD student in Social Research Methods (Computational Social Science)
+role: PhD student in Social Research Methods
 
 # Organizations/Affiliations to show in About widget
 organizations:
