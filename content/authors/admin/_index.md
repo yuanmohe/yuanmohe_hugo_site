@@ -14,7 +14,7 @@ organizations:
   url: https://www.lse.ac.uk/
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student, casual blogger and amateur novelist.
+bio: PhD student, random blogger and rookie novelist.
 
 # Interests to show in About widget
 # interests:
