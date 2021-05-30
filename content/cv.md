@@ -16,13 +16,10 @@ commentable: false  # Show comments?
 PhD Social Research Methods, London School of Economics, 2021-24
 
 MSc Applied Social Data Science, London School of Economics, 2020-21
-
 - Distinction in all modules
 
 BSc Social Sciences, University College London, 2016-19
-
 - Winner of the UCL Insititute of Education Faculty Medal (the best final year undergraduate student)
-
 - Achieved the highest final mark of all graduates in the Department of Social Sciences
 
 
@@ -31,7 +28,7 @@ BSc Social Sciences, University College London, 2016-19
 
 Accepted paper: Estimating Individual Socioeconomic Status of Twitter Users
 - International Conference on Computational Social Science, online, July 2021
-- The Annual Meeting of the American Sociological Association( Section on Inequality, Poverty and Mobility: New Approaches to Understanding and Addressing Inequality), online, Aug 2021
+- The Annual Meeting of the American Sociological Association (Section on Inequality, Poverty and Mobility: New Approaches to Understanding and Addressing Inequality), online, Aug 2021
 - General Online Research, online, Sept 2021
 
 
