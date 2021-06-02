@@ -64,7 +64,7 @@ highlight_name: false
 
 Hello, world! I am a PhD student in the [Department of Methodology](https://www.lse.ac.uk/methodology) at the [London School of Economics and Political Science](https://www.lse.ac.uk/). I hold a MSc in Applied Social Data Science from LSE and a BSc in Social Sciences from [University College London](https://www.ucl.ac.uk/). 
 
-The substantive interest driving my PhD is how socioeconomic inequality is manifested and reproduced in daily behaviours and social interactions. Specifically, my PhD aims to explore the relation between socioeconomic inequality and social networks, employing a range of advanced data analysis and computational methods (e.g. social network analysis, machine learning, natural language processing) on digital trace data (especially Twitter). 
+The substantive interest driving my PhD is how socioeconomic inequality is manifested and reproduced in daily behaviours and social interactions. Specifically, my PhD aims to explore the relation between socioeconomic inequality and social networks, employing a range of advanced data analysis and computational methods (e.g. social network analysis, machine learning, quantitative text analysis) on digital trace data (especially Twitter). 
 
 My broader research interests include inequality and social mobility, social network analysis, and computational social science. I am interested in the advancement of data science and artificial intelligence in two sides: 1. how can they benefit our understanding of society and humanity; 2. what are their impacts on society and humanity. 
 
