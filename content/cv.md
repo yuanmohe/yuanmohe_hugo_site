@@ -26,7 +26,7 @@ BSc Social Sciences, University College London, 2016-19
 
 ## **Conference Presentations**
 
-Accepted paper: Estimating Individual Socioeconomic Status of Twitter Users
+Estimating Individual Socioeconomic Status of Twitter Users
 - International Conference on Computational Social Science, online, July 2021
 - The Annual Meeting of the American Sociological Association (Section on Inequality, Poverty and Mobility: New Approaches to Understanding and Addressing Inequality), online, Aug 2021
 - General Online Research, online, Sept 2021
