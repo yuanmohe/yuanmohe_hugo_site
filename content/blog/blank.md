@@ -14,6 +14,6 @@ design:
 
 Hello, welcome to my blog. 
 
-I just built this website and decided to start blogging, but I haven't done any writing yet. 😝
+I built this website a while ago and decided to start blogging, but I haven't done any writing yet. 😝
 
 Currently testing the categories and tags function in this website builder I am using.
