@@ -8,8 +8,6 @@ share: false  # Show social sharing links?
 commentable: false  # Show comments?
 ---
 
-<style>body {text-align: justify}</style>
-
 ##  **Education**
 
 PhD Social Research Methods, London School of Economics, 2021-24
