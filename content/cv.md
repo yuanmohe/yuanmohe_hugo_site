@@ -1,4 +1,5 @@
 ---
+<style>body {text-align: right}</style>
 title: CV
 Summary: CV
 lastmod: true
