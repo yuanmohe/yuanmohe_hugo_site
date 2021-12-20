@@ -1,5 +1,4 @@
 ---
-<style>body {text-align: right}</style>
 title: CV
 Summary: CV
 lastmod: true
@@ -7,10 +6,9 @@ lastmod: true
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?
 commentable: false  # Show comments?
-
 ---
 
-
+<style>body {text-align: right}</style>
 
 ##  **Education**
 
