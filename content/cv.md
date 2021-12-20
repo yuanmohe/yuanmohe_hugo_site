@@ -24,12 +24,22 @@ BSc Social Sciences, University College London, 2016-19
 
 
 
+## **Teaching Experience**
+
+**MY474 Applied Machine Learning,** Teaching Assistant, LSE, 01/2022 - 05/2022 
+
+**MY470 Computer Programming,** Teaching Assistant, LSE, 09/2021 - 01/2022
+
+**Introduction to Python Programming,** Teaching Assistant, Data Science Summer School, 08/2021    
+
+
+
 ## **Conference Presentations**
 
 Estimating Individual Socioeconomic Status of Twitter Users
-- International Conference on Computational Social Science, online, July 2021
-- The Annual Meeting of the American Sociological Association (Section on Inequality, Poverty and Mobility: New Approaches to Understanding and Addressing Inequality), online, Aug 2021
-- General Online Research, online, Sept 2021
+- International Conference on Computational Social Science, online, 07/2021
+- The Annual Meeting of the American Sociological Association (Section on Inequality, Poverty and Mobility: New Approaches to Understanding and Addressing Inequality), online, 08/2021
+- General Online Research, online, 09/2021
 
 
 
