@@ -8,7 +8,7 @@ share: false  # Show social sharing links?
 commentable: false  # Show comments?
 ---
 
-<style>body {text-align: right}</style>
+<style>body {text-align: justify}</style>
 
 ##  **Education**
 
