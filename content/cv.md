@@ -26,11 +26,11 @@ BSc Social Sciences, University College London, 2016-19
 
 ## **Teaching Experience**
 
-**MY474 Applied Machine Learning,** Teaching Assistant, LSE, 01/2022 - 05/2022 
+MY474 Applied Machine Learning, Teaching Assistant, LSE, 01/2022 - 05/2022 
 
-**MY470 Computer Programming,** Teaching Assistant, LSE, 09/2021 - 01/2022
+MY470 Computer Programming, Teaching Assistant, LSE, 09/2021 - 01/2022
 
-**Introduction to Python Programming,** Teaching Assistant, Data Science Summer School, 08/2021    
+Introduction to Python Programming, Teaching Assistant, Data Science Summer School, 08/2021    
 
 
 
