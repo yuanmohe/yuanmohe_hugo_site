@@ -1,6 +1,7 @@
 ---
+title: fiction
 
-type: "widget_page"
 
 ---
 
+This page is my fiction page. Lalala
