@@ -16,19 +16,6 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: PhD student, random blogger and rookie novelist.
 
-# Interests to show in About widget
-# interests:
-# - Artificial Intelligence
-# - Computational Linguistics
-# - Information Retrieval
-
-# Education to show in About widget
-# education:
-  # courses:
-  # - course: PhD in Artificial Intelligence
-  #  institution: Stanford University
-  #  year: 2012
-
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -64,8 +51,8 @@ highlight_name: false
 
 Hello, world! I am a PhD student in the [Department of Methodology](https://www.lse.ac.uk/methodology) at the [London School of Economics and Political Science](https://www.lse.ac.uk/). I hold a MSc in Applied Social Data Science from LSE and a BSc in Social Sciences from [University College London](https://www.ucl.ac.uk/). 
 
-The substantive interest driving my PhD is how socioeconomic inequality is manifested and reproduced in daily behaviours and social interactions. Specifically, my PhD aims to explore the relationship between socioeconomic inequality and social networks, employing a range of advanced data analysis and computational methods (e.g. social network analysis, machine learning, quantitative text analysis) on digital trace data (especially Twitter). 
+The substantive interest driving my PhD is how socioeconomic inequality is manifested and reproduced in daily behaviours and social interactions. Specifically, my PhD aims to explore the interactions between socioeconomic inequality, social networks, and culture, employing a range of advanced data analysis and computational methods (e.g. social network analysis, machine learning, natural language processing) on digital trace data. 
 
-My broader research interests include inequality and social mobility, social network analysis, and computational social science. I am interested in the advancement of data science and artificial intelligence on two sides: 1. how can they benefit our understanding of society and humanity; 2. what are their impacts on society and humanity. 
+My broader research interests include inequality and social mobility, social network analysis, and computational social science. I am also interested in the advancement of artificial intelligence on two sides: 1. how can they benefit our understanding of society and humanity; 2. what are their impacts on society and humanity. 
 
 I have plenty of interests outside academia. I am particulary interested in digital innovation, sustainable development, and entrepreneurship; I am co-founding a startup that somewhat combines those three elements. I also dabble in music, art, literature, philosophy, history, film, and football. I will be sharing some cool stuff from both my research and other interests at the Blog section of this website.
