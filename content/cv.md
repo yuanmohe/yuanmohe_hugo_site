@@ -8,6 +8,8 @@ share: false  # Show social sharing links?
 commentable: false  # Show comments?
 ---
 
+To download my CV in pdf format, click [here.](/static/uploads/YuanmoHe_cv.pdf)
+
 ##  **Education**
 
 PhD Social Research Methods, London School of Economics, 2021-24
