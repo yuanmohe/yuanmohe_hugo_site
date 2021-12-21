@@ -8,7 +8,7 @@ share: false  # Show social sharing links?
 commentable: false  # Show comments?
 ---
 
-To download my CV in pdf format, click [here.](/static/uploads/YuanmoHe_cv.pdf)
+To download my CV in pdf format, click [here.](/uploads/YuanmoHe_cv.pdf)
 
 ##  **Education**
 
