@@ -1,6 +1,6 @@
 ---
 
-title: this is cate 1 testing
+title: category1
 
 ---
 
