@@ -8,7 +8,7 @@ share: false  # Show social sharing links?
 commentable: false  # Show comments?
 ---
 
-To download my CV in pdf format, click [here.](/uploads/YuanmoHe_CV.pdf)
+To download my CV in pdf format, click [here](/uploads/YuanmoHe_CV.pdf). (Last update: 15 Jan 2022)
 
 ##  **Education**
 
