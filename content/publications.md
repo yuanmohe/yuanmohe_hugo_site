@@ -12,4 +12,5 @@ header:
   caption: ""
   image: ""
 ---
-As a fresh PhD student, I do not have any publication yet. Working on it! 💪
+
+Y. He and M. Tsvetkova. 2022. [A method for estimating individual socioeconomic status of Twitter users](https://arxiv.org/abs/2203.11636). arXiv preprint arXiv:2203.11636.
