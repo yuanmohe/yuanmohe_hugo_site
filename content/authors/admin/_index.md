@@ -52,7 +52,7 @@ email: ""
 highlight_name: false
 ---
 
-Hello, world! I am a PhD student in the [Department of Methodology](https://www.lse.ac.uk/methodology) at the [London School of Economics and Political Science](https://www.lse.ac.uk/). I hold a MSc in Applied Social Data Science from LSE and a BSc in Social Sciences from [University College London](https://www.ucl.ac.uk/). 
+Hello, world! I am a PhD student in the [Department of Methodology](https://www.lse.ac.uk/methodology) and the [Data Science Institute](https://www.lse.ac.uk/DSI) at the [London School of Economics and Political Science](https://www.lse.ac.uk/). I hold a MSc in Applied Social Data Science from LSE and a BSc in Social Sciences from [University College London](https://www.ucl.ac.uk/). 
 
 The substantive interest driving my PhD is how socioeconomic inequality is manifested and reproduced in daily behaviours and social interactions. Specifically, my PhD aims to explore the interactions between socioeconomic inequality, social networks, and culture, employing a range of advanced data analysis and computational methods (e.g. social network analysis, machine learning, natural language processing) on digital trace data. 
 
