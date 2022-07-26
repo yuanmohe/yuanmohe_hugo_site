@@ -18,8 +18,8 @@ MSc Applied Social Data Science, London School of Economics, 2020-21
 - Distinction in all modules
 
 BSc Social Sciences, University College London, 2016-19
-- Winner of the UCL Insititute of Education Faculty Medal (the best final year undergraduate student)
-- Achieved the highest final mark of all graduates in the Department of Social Sciences
+- Winner of the UCL Insititute of Education **Faculty Medal (the best final year undergraduate student)**
+- Achieved the **highest final mark** of all graduates in the Department of Social Sciences
 
 
 
