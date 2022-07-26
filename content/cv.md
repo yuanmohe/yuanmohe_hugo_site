@@ -15,7 +15,7 @@ To download my CV in pdf format, click [here](/uploads/YuanmoHe_CV.pdf). (Last u
 PhD Social Research Methods, London School of Economics, 2021-24
 
 MSc Applied Social Data Science, London School of Economics, 2020-21
-- Achieved **distinction** in **all** modules
+- **Distinction in all modules**
 
 BSc Social Sciences, University College London, 2016-19
 - Winner of the UCL Insititute of Education **Faculty Medal (the best final year undergraduate student)**
