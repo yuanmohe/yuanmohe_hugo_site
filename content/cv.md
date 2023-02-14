@@ -8,7 +8,7 @@ share: false  # Show social sharing links?
 commentable: false  # Show comments?
 ---
 
-Academic CV in pdf click [here](/uploads/YuanmoHe_CV.pdf). (Last update: 14 Feb 2023)
+Academic CV in pdf click [here](/uploads/Yuanmo_He_CV.pdf). (Last update: 14 Feb 2023)
 
 Industry resume in pdf click [here](/uploads/YuanmoHe_resume.pdf).(Last update: 14 Feb 2023)
 
