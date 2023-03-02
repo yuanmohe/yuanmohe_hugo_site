@@ -13,4 +13,4 @@ header:
   image: ""
 ---
 
-Y. He and M. Tsvetkova. 2022. [A method for estimating individual socioeconomic status of Twitter users](https://arxiv.org/abs/2203.11636). arXiv preprint arXiv:2203.11636.
+Y. He and M. Tsvetkova. 2022. [A method for estimating individual socioeconomic status of Twitter users](https://arxiv.org/abs/2203.11636). arXiv preprint arXiv:2203.11636. Forthcoming in **Sociological Methods & Research**
