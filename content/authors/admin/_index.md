@@ -11,7 +11,7 @@ role: PhD student in Social Research Methods
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: London School of Economics
-  url: https://www.lse.ac.uk/
+  url: https://www.lse.ac.uk/Methodology/People/Research-Students/Yuanmo-He/Yuanmo-He
 
 # Short bio (displayed in user profile at end of posts)
 bio: PhD student, random blogger and rookie novelist.
