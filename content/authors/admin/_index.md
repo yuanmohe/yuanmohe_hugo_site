@@ -54,4 +54,6 @@ highlight_name: false
 
 Hello, world! I am a PhD candidate in the [Department of Methodology](https://www.lse.ac.uk/methodology) and the [Data Science Institute](https://www.lse.ac.uk/DSI) at the [London School of Economics and Political Science](https://www.lse.ac.uk/). I hold a MSc in Applied Social Data Science from LSE and a BSc in Social Sciences from [University College London](https://www.ucl.ac.uk/). 
 
-In my PhD, I explore how socioeconomic inequality is manifested and reproduced in daily behaviors and social interactions, employing a range of advanced data analysis and computational methods (e.g. social network analysis, machine learning, natural language processing) on digital trace data. More broadly, I am interested in utilizing the advancement of technology (e.g. data science, AI) to benefit our understanding of society and humanity and reflect on their impacts. I am increasingly interested in AI/data policy and ethics.
+My PhD research examines how daily behaviours and social interactions reflect and reinforce socioeconomic inequality, using large-scale digital trace data and advanced computational methods (such as machine learning, natural language processing, and social network analysis). More broadly, I am interested in not only harnessing the potential of data science and AI to improve our understanding of society and humanity, but also evaluating the impacts of such technologies. Relevantly, I have a growing interest in AI/data policy and ethics.
+
+
