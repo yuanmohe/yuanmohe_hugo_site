@@ -1,6 +1,6 @@
 ---
 title: Resume
-Summary: CV
+Summary: Resume
 lastmod: true
 
 reading_time: true  # Show estimated reading time?
