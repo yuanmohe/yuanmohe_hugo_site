@@ -7,9 +7,9 @@ main:
   - name: About
     url: '#about'
     weight: 10
-  - name: Resume
-    url: '/resume/'
-    weight: 20  
+  # - name: Resume
+  #   url: '/resume/'
+  #   weight: 20  
   - name: Publications
     url: '/publications/'
     weight: 30    
