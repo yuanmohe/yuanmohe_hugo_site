@@ -60,5 +60,5 @@ Hello, world! I am a PhD candidate in the [Department of Methodology](https://ww
 
 My PhD research examines how daily behaviours and social interactions reflect and reinforce socioeconomic inequality, using large-scale digital trace data and advanced computational methods (such as machine learning, natural language processing, and social network analysis). More broadly, I am interested in not only harnessing the potential of data science and AI to improve our understanding of society and humanity but also evaluating the impacts of such technologies. Relevantly, I have a growing interest in AI policy and ethics.
 
-Pleae find my [resume here](/uploads/YuanmoHe_resume.pdf)
+Pleae find my [resume here](/uploads/YuanmoHe_resume.pdf).
 
