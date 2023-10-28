@@ -1,5 +1,5 @@
 ---
-title: CV
+title: Resume
 Summary: CV
 lastmod: true
 
