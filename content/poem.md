@@ -1,7 +1,7 @@
 I don't have many friends \
 So I treat each of them very well \
 I am kidding, of course \
-I have no friend at all \\
+I have no friend at all \
 
 I actually have many friends \
 And I treat all of them very well \
