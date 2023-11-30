@@ -14,7 +14,7 @@ organizations:
   url: https://www.lse.ac.uk/Methodology/People/Research-Students/Yuanmo-He/Yuanmo-He
 
 # Short bio (displayed in user profile at end of posts)
-bio: PhD student, random blogger and rookie novelist.
+bio: PhD student and comedian.
 
 
 # Social/Academic Networking
