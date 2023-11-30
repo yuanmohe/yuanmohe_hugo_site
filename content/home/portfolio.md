@@ -2,7 +2,7 @@
 # A section created with the Portfolio widget.
 # This section displays content from `content/project/`.
 # See https://docs.hugoblox.com/widget/portfolio/
-block: portfolio
+widget: portfolio
 
 # This file represents a page section.
 headless: true
@@ -23,7 +23,7 @@ content:
 
 design:
   columns: '1'
-  view: masonry
+  view: compact
   flip_alt_rows: true
   background: {}
   spacing: {padding: [0, 0, 0, 0]}
