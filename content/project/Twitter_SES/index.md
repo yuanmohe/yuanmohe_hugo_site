@@ -1,7 +1,8 @@
 ---
 title: Estimating Twitter User's SES
-summary: Write about your project here...
+summary: to be updated
 # tags:
 #   - NLP
 
 ---
+to be updated
