@@ -3,8 +3,8 @@ title: Consumption Inequality
 summary: to be updated
 # tags:
 #  - Deep Learning
-date: '2021-01-01T00:00:00Z'
-weight: 2
+date: -2
+
 
 reading_time: false  # Show estimated reading time?
 share: false  # Show social sharing links?
