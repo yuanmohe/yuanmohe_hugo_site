@@ -11,4 +11,4 @@ profile: false  # Show author profile?
 commentable: false  # Show comments?
 
 ---
-to be updated
+To be updated
