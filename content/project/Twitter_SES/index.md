@@ -1,6 +1,6 @@
 ---
 title: Estimating Twitter User's SES
-summary: to be updated
+summary: To be updated
 # tags:
 #   - NLP
 date: -1
