@@ -1,5 +1,5 @@
 ---
-title: Estimating Twitter User's SES
+title: Estimating Twitter User's Socioeconomic Status
 summary: To be updated
 # tags:
 #   - NLP
