@@ -1,5 +1,5 @@
 ---
-title: Estimating Twitter User's Socioeconomic Status
+title: A Method for Estimating Individual Socioeconomic Status of Twitter Users
 summary: Published in Sociological Methods and Research
 # tags:
 #   - NLP
