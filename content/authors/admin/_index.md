@@ -60,7 +60,7 @@ Hello, world! I am a PhD candidate in the [Department of Methodology](https://ww
 
 My PhD research examines how daily behaviours and social interactions reflect and reinforce socioeconomic inequality, using large-scale digital trace data and advanced computational methods (such as machine learning, natural language processing, and social network analysis). More broadly, I am interested in not only harnessing the potential of data science and AI to improve our understanding of society and humanity but also evaluating the impacts of such technologies. Relevantly, I have a growing interest in AI policy and ethics.
 
-Please find my [industry resume](/uploads/YuanmoHe_resume.pdf) or [academic CV](/uploads/Yuanmo_He_Academic_CV.pdf) (last updated 16 Nov 2023).
+Please find my [industry resume](/uploads/YuanmoHe_resume.pdf) or [academic CV](/uploads/Yuanmo_He_Academic_CV.pdf) (last updated 15 March 2024).
 
 I do stand-up comedy and blogging in my free time. 
 - Recent blog post: [Why am I hopeful even though I am depressed](https://open.substack.com/pub/yuanmohe/p/why-am-i-hopeful-even-though-i-am?r=207j6l&utm_campaign=post&utm_medium=web)
