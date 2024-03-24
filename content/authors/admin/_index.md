@@ -63,5 +63,9 @@ My PhD research examines how daily behaviours and social interactions reflect an
 Please find my [industry resume](/uploads/YuanmoHe_resume.pdf) or [academic CV](/uploads/Yuanmo_He_Academic_CV.pdf) (last updated 15 March 2024).
 
 I do stand-up comedy and blogging in my free time. 
-- Recent blog post: [Why am I hopeful even though I am depressed](https://open.substack.com/pub/yuanmohe/p/why-am-i-hopeful-even-though-i-am?r=207j6l&utm_campaign=post&utm_medium=web)
-- Information on my stand-up comedy will be updated later.
+
+Recent blog post:
+- [Why am I hopeful even though I am depressed](https://open.substack.com/pub/yuanmohe/p/why-am-i-hopeful-even-though-i-am?r=207j6l&utm_campaign=post&utm_medium=web)
+- [Lacking sincerity and respect: the problems with the Netflix 3 Body Problem](https://open.substack.com/pub/yuanmohe/p/lacking-sincerity-and-respect-the?r=207j6l&utm_campaign=post&utm_medium=web)
+
+Information on my stand-up comedy will be updated later.
