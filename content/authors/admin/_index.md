@@ -67,5 +67,6 @@ I do stand-up comedy and blogging in my free time.
 Recent blog post:
 - [Why am I hopeful even though I am depressed](https://open.substack.com/pub/yuanmohe/p/why-am-i-hopeful-even-though-i-am?r=207j6l&utm_campaign=post&utm_medium=web)
 - [Lacking sincerity and respect: the problems with the Netflix 3 Body Problem](https://open.substack.com/pub/yuanmohe/p/lacking-sincerity-and-respect-the?r=207j6l&utm_campaign=post&utm_medium=web)
+- [On the transitory nature of feelings](https://open.substack.com/pub/yuanmohe/p/on-the-transitory-nature-of-feelings?r=207j6l&utm_campaign=post&utm_medium=web)
 
 Information on my stand-up comedy will be updated later.
