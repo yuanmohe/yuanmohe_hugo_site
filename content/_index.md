@@ -16,7 +16,7 @@ sections:
   - block: portfolio
     id: projects
     content:
-      title: 
+      title: Research Projects
       filters:
         folders:
           - project
