@@ -64,7 +64,7 @@ I am currently a PhD candidate in the [Department of Methodology](https://www.ls
 
 My PhD research examines how daily behaviours and social interactions reflect and reinforce socioeconomic inequality, using large-scale digital trace data and advanced computational methods (such as machine learning, natural language processing, and social network analysis).
 
-Please find my [industry resume](/uploads/YuanmoHe_resume.pdf) or [academic CV](/uploads/Yuanmo_He_Academic_CV.pdf) (last updated 15 March 2024).
+Please find my [industry resume](/uploads/YuanmoHe_resume.pdf) or [academic CV](/uploads/Yuanmo_He_Academic_CV.pdf) (last updated 14 April 2024).
 
 I do stand-up comedy and blogging in my free time. 
 
