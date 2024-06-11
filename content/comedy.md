@@ -10,7 +10,7 @@ commentable: false  # Show comments?
 
 ## Coming 
 
-7. 2024 June 18 **Open Mic Deput** 6:30-8:15 pm Comedy Virgins, The Cavendish Arms https://www.thecav.uk/comedy
+7. 2024 June 18 **Open Mic Deput** 7pm Comedy Virgins, The Cavendish Arms https://www.thecav.uk/comedy
 
 
 ## Done
