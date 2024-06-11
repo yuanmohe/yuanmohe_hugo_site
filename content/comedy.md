@@ -8,12 +8,12 @@ profile: false  # Show author profile?
 commentable: false  # Show comments?
 ---
 
-# Coming 
+## Coming 
 
 7. 2024 June 18 **Open Mic Deput** 6:30-8:15 pm Comedy Virgins
 
 
-# Done
+## Done
 
 1. 2023 March 31 - **Debut** (but looking at my phones), Department of Methodology End of Term Party, London School of Economics
 
