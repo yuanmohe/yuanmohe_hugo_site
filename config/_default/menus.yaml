@@ -12,10 +12,13 @@ main:
   #   weight: 20  
   - name: Publications
     url: '/publications/'
-    weight: 30   
+    weight: 30
+  - name: Comedy
+    url: '/comedy/'
+    weight: 40
   - name: Poem
     url: '/poem/'
-    weight: 40  
+    weight: 50  
 #   - name: Blog
 #     url: '/blog/'
 #     weight: 50
