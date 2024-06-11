@@ -10,12 +10,12 @@ commentable: false  # Show comments?
 
 ## Coming 
 
-7. 2024 June 18 **Open Mic Deput** 6:30-8:15 pm Comedy Virgins
+7. 2024 June 18 **Open Mic Deput** 6:30-8:15 pm Comedy Virgins, The Cavendish Arms
 
 
 ## Done
 
-1. 2023 March 31 - **Debut** (but looking at my phones), Department of Methodology End of Term Party, London School of Economics
+1. 2023 March 31 - **Debut** (but looking at my phones), Department of Methodology End of Term Party, LSE
 
 2. 2023 April 17 -  **First performance without notes** at the Welcome Reception, Workshop on Inequality Across Scales, Space, Time and Domains, The Abdus Salam International Centre for Theoretical Physics
 
