@@ -22,7 +22,7 @@ Format: Nth Time | Date | Which Set | Brief Notes | Location
 
 5 | 2024 March 16 | My second set(5min) | **Comedy-club Debut** | Beginner's Standup Comedy Course Showcase, Angel Comedy Club
 
-4 | 2023 December 08 | Work in progress |Improvised work-in-progress show | Department of Methodology PhD Christmas Party
+4 | 2023 December 08 | Work in progress | Improvised work-in-progress show | Department of Methodology PhD Christmas Party
 
 3 | 2023 June 15 | My first set(15-20min) | Performed at one night | Complex Systems Summer School, Santa Fe Institute
 
