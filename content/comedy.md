@@ -8,6 +8,7 @@ profile: false  # Show author profile?
 commentable: false  # Show comments?
 ---
 
+Format: Nth Time | Date | Which Set | Brief Notes | Location
 
 
 ## Coming 
@@ -16,8 +17,6 @@ commentable: false  # Show comments?
 
 
 ## Done
-
-Format: Nth Time | Date | Which Set | Brief Notes | Location
 
 6 | 2024 March 26 | My second set(5min) + A roast section wrote specifically for this party | Performed | Department of Methodology End of Term Party, LSE
 
