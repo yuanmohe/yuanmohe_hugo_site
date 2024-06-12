@@ -21,7 +21,7 @@ commentable: false  # Show comments?
 
 3. 2023 June 15 - Performed at the Complex Systems Summer School, Santa Fe Institute
 
-4. 2023 December - 08 Work-in-progress show at Department of Methodology PhD Christmas Party
+4. 2023 December 08 -  Improvised work-in-progress show at Department of Methodology PhD Christmas Party
 
 5. 2024 March 16 - **Comedy-club Debut**, Beginner's Standup Comedy Course Showcase, Angel Comedy Club
 
