@@ -64,7 +64,8 @@ My PhD dissertation uses large-scale digital trace data and advanced computation
 
 Please find my [industry resume](/uploads/YuanmoHe_resume.pdf) or [academic CV](/uploads/Yuanmo_He_Academic_CV.pdf) (last updated 01 May 2024).
 
-I do [stand-up comedy](https://yuanmohe.com/comedy/) and blogging in my free time. 
+I do [stand-up comedy](https://yuanmohe.com/comedy/) and blogging in my free time.
+
 I blog about interesting things that are normally unrelated to my work. Find me on [Substack](https://substack.com/@yuanmohe?utm_source=profile-page).
 Recent blog post:
 - [Why am I hopeful even though I am depressed](https://open.substack.com/pub/yuanmohe/p/why-am-i-hopeful-even-though-i-am?r=207j6l&utm_campaign=post&utm_medium=web)
