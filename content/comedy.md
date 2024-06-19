@@ -13,10 +13,12 @@ Format: Nth Time | Date | Which Set | Brief Notes | Location
 
 ## Coming 
 
-7 | 2024 June 18 7pm | My second set(5min) | **Open Mic Deput** | Comedy Virgins, The Cavendish Arms https://www.thecav.uk/comedy
 
 
 ## Done
+
+7 | 2024 June 18 7pm | My second set(5min) | **Open Mic Deput** 🥈 Very close runner-up out of 13 acts| Comedy Virgins, The Cavendish Arms https://www.thecav.uk/comedy
+
 
 6 | 2024 March 26 | My second set(5min) + A roast section wrote specifically for this party | Performed | Department of Methodology End of Term Party, LSE
 
