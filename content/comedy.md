@@ -8,7 +8,7 @@ profile: false  # Show author profile?
 commentable: false  # Show comments?
 ---
 
-Format: Nth Time | Date | Which Set | Brief Notes | Location
+Format: Nth Time | Date | Which Set | Brief Notes | Location | Recordings if avaiable
 
 
 ## Coming 
@@ -22,7 +22,7 @@ Format: Nth Time | Date | Which Set | Brief Notes | Location
 
 6 | 2024 March 26 | My second set(5min) + A roast section wrote specifically for this party | Performed | Department of Methodology End of Term Party, LSE
 
-5 | 2024 March 16 | My second set(5min) | **Comedy Club Debut** | Beginner's Standup Comedy Course Showcase, Angel Comedy Club - The Bill Murry
+5 | 2024 March 16 | My second set(5min) | **Comedy Club Debut** | Beginner's Standup Comedy Course Showcase, Angel Comedy Club - The Bill Murry | https://www.instagram.com/reel/C8fZ5VXASc2/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA== 
 
 4 | 2023 December 08 | Work in progress | Improvised work-in-progress show | Department of Methodology PhD Christmas Party
 
