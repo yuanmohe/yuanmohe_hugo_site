@@ -62,7 +62,7 @@ I am currently a PhD candidate in the [Department of Methodology](https://www.ls
 
 My PhD dissertation uses large-scale digital trace data and advanced computational methods (e.g., machine learning, natural language processing, causal analysis, and social network analysis) to study how daily behaviours and social interactions reflect and reinforce socioeconomic inequality. The first paper of my PhD has been published in [Social Methods & Research](https://journals.sagepub.com/doi/10.1177/00491241231168665) (a top peer-reviewed journal in sociology and quantitative social science). The second paper of my PhD received an [honourable mention](https://ic2s2-2023.org/awards) at the 2023 International Conference on Computational Social Science.
 
-Please find my [industry resume](/uploads/YuanmoHe_resume.pdf) or [academic CV](/uploads/Yuanmo_He_Academic_CV.pdf) (last updated 01 May 2024).
+Please find my [industry resume](/uploads/YuanmoHe_resume.pdf) or [academic CV](/uploads/Yuanmo_He_Academic_CV.pdf) (last updated 22 June 2024).
 
 I do [stand-up comedy](https://yuanmohe.com/comedy/) and blogging in my free time.
 
