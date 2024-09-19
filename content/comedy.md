@@ -13,7 +13,7 @@ Format: Nth Time | Date | Which Set | Brief Notes | Location | Recordings if ava
 
 ## Coming 
 
-
+Currently focusing on the final stage of my PhD. Will be back soon...
 
 ## Done
 
