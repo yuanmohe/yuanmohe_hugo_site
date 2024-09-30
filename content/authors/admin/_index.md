@@ -60,11 +60,11 @@ Hello, world! I am a computational social scientist with expertise in identifyin
 
 I am currently a Fellow in Advanced Quantitative Methods at the [Department of Methodology](https://www.lse.ac.uk/methodology) at the [London School of Economics and Political Science](https://www.lse.ac.uk/). I just completed a PhD in Social Research Methods from the same department. I hold an MSc in Applied Social Data Science from LSE and a BSc in Social Sciences from [University College London](https://www.ucl.ac.uk/). 
 
+In my current fellowship, I am developing research ideas in the area of AI alignment and policy and publishing work from my PhD.
+
 My PhD dissertation uses large-scale digital trace data and advanced computational methods (e.g., machine learning, natural language processing, causal analysis, and social network analysis) to study how daily behaviours and social interactions reflect and reinforce socioeconomic inequality. The first paper of my PhD has been published in [Social Methods & Research](https://journals.sagepub.com/doi/10.1177/00491241231168665) (a top peer-reviewed journal in sociology and quantitative social science). The second paper of my PhD received an [honourable mention](https://ic2s2-2023.org/awards) at the 2023 International Conference on Computational Social Science.
 
 Please find my [academic CV](/uploads/Yuanmo_He_Academic_CV.pdf) (last updated 29 Sep 2024) or [industry resume](/uploads/YuanmoHe_resume.pdf)(last updated 22 June 2024).
 
-I do [stand-up comedy](https://yuanmohe.com/comedy/) and blogging in my free time.
-
-I blog about interesting things that are normally unrelated to my work. Find me on [Substack](https://substack.com/@yuanmohe?utm_source=profile-page).
+I do [stand-up comedy](https://yuanmohe.com/comedy/) and [blogging](https://substack.com/@yuanmohe?utm_source=profile-page) in my free time.
 
