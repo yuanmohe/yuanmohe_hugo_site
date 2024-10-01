@@ -25,7 +25,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:y.he54@lse.ac.uk'
-- icon: x
+- icon: twitter
   icon_pack: fab
   link: https://twitter.com/YuanmoHe
 - icon: github
@@ -38,6 +38,7 @@ social:
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=i0NoSJUAAAAJ&hl=en&oi=ao
 - icon: orcid
+  icon_pack: ai
   link: https://orcid.org/0000-0001-7827-5395
 - icon: instagram
   icon_pack: fab
