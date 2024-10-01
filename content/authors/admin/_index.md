@@ -11,7 +11,7 @@ role: Fellow in Advanced Quantitative Methods
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: London School of Economics
-  url: https://www.lse.ac.uk/Methodology/People/Research-Students/Yuanmo-He/Yuanmo-He](https://www.lse.ac.uk/Methodology/People/Academic-Staff/Yuanmo-He/Yuanmo-He
+  url: https://www.lse.ac.uk/Methodology/People/Academic-Staff/Yuanmo-He/Yuanmo-He
 
 # Short bio (displayed in user profile at end of posts)
 bio: Postdoc and comedian.
