@@ -25,11 +25,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:y.he54@lse.ac.uk'
-- icon: brands/x
-  url: https://twitter.com/YuanmoHe
-# - icon: twitter
-#  icon_pack: fab
-#  link: https://twitter.com/YuanmoHe
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/YuanmoHe
 - icon: github
   icon_pack: fab
   link: https://github.com/yuanmohe
