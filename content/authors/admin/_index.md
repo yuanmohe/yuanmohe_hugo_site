@@ -14,7 +14,7 @@ organizations:
   url: https://www.lse.ac.uk/Methodology/People/Academic-Staff/Yuanmo-He/Yuanmo-He
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoc and comedian.
+bio: Postdoc and Stand-up Comedian.
 
 
 # Social/Academic Networking
