@@ -6,7 +6,7 @@ title: Yuanmo He
 superuser: true
 
 # Role/position/tagline
-role: Fellow in Advanced Quantitative Methods
+role: Fellow in Advanced Quantitative Methods | Stand-up Comedian
 
 # Organizations/Affiliations to show in About widget
 organizations:
