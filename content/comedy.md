@@ -8,12 +8,12 @@ profile: false  # Show author profile?
 commentable: false  # Show comments?
 ---
 
-Format: Nth Time | Date | Which Set | Brief Notes | Location | Recordings if avaiable
+Format: Nth Time | Date Time | Which Set | Brief Notes | Location | Recordings if avaiable
 
 
 ## Coming 
 
-Currently focusing on the final stage of my PhD. Will be back soon...
+8 | 2024 October 25 FRI 6-8pm | My second set(5min) with small alterations | [LSE Chill](https://www.lse.ac.uk/Events/2024/10/202410251900/LSE-Chill) | Downstairs at the LSE Garrick
 
 ## Done
 
