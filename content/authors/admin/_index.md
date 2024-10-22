@@ -59,9 +59,9 @@ email: ""
 highlight_name: false
 ---
 
-Hello, world! I am a computational social scientist with expertise in identifying and employing the most effective data and methods to analyse social issues. I am interested in data science and AI, not only to harness their power but also to evaluate their social impacts.
+Hello, world! I am Yuanmo, an academic researcher and a stand-up comedian.
 
-I am currently a Fellow in Advanced Quantitative Methods at the [Department of Methodology](https://www.lse.ac.uk/methodology) and an Affiliate at the [Data Science Institute](https://www.lse.ac.uk/dsi) of the [London School of Economics and Political Science](https://www.lse.ac.uk/). I just completed a PhD in Social Research Methods from the same department. I hold an MSc in Applied Social Data Science from LSE and a BSc in Social Sciences from [University College London](https://www.ucl.ac.uk/). 
+I am a computational social scientist with expertise in identifying and employing the most effective data and methods to analyse social issues. I am interested in data science and AI, not only to harness their power but also to evaluate their social impacts. I am currently a Fellow in Advanced Quantitative Methods at the [Department of Methodology](https://www.lse.ac.uk/methodology) and an Affiliate at the [Data Science Institute](https://www.lse.ac.uk/dsi) of the [London School of Economics and Political Science](https://www.lse.ac.uk/). I just completed a PhD in Social Research Methods from the same department. I hold an MSc in Applied Social Data Science from LSE and a BSc in Social Sciences from [University College London](https://www.ucl.ac.uk/). 
 
 In my current fellowship, I am developing research ideas in the area of AI alignment and policy, while publishing findings from my PhD.
 
