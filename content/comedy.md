@@ -26,8 +26,8 @@ Format: Nth Time | Date Time | Which Set | Brief Notes | Location | Recordings i
 
 4 | 2023 December 08 | Work in progress | Improvised work-in-progress show | Department of Methodology PhD Christmas Party
 
-3 | 2023 June 15 | My first set(15-20min) | Performed at one night | Complex Systems Summer School, Santa Fe Institute
+3 | 2023 June 15 | My first set(15min) | Performed at one night | Complex Systems Summer School, Santa Fe Institute
 
-2 | 2023 April 17 | My first set(15-20min) | **First performance without notes** | Welcome Reception, Workshop on Inequality Across Scales, Space, Time and Domains, The Abdus Salam International Centre for Theoretical Physics
+2 | 2023 April 17 | My first set(15min) | **First performance without notes** | Welcome Reception, Workshop on Inequality Across Scales, Space, Time and Domains, The Abdus Salam International Centre for Theoretical Physics
 
-1 | 2023 March 31 | My first set(15-20min) | **Debut** (but looking at my phones) | Department of Methodology End of Term Party, LSE
+1 | 2023 March 31 | My first set(15min) | **Debut** (but looking at my phones) | Department of Methodology End of Term Party, LSE
