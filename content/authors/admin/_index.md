@@ -67,7 +67,7 @@ In my current fellowship, I am developing research ideas in the area of AI align
 
 My PhD dissertation uses large-scale digital trace data and advanced computational methods (e.g., machine learning, natural language processing, causal analysis, and social network analysis) to study how daily behaviours and social interactions reflect and reinforce socioeconomic inequality. The first paper of my PhD has been published in [Social Methods & Research](https://journals.sagepub.com/doi/10.1177/00491241231168665) (a top peer-reviewed journal in sociology and quantitative social science). The second paper of my PhD received an [honourable mention](https://ic2s2-2023.org/awards) at the 2023 International Conference on Computational Social Science.
 
-Please find my [academic CV](/uploads/Yuanmo_He_Academic_CV.pdf) (last updated 19 Oct 2024) or [industry resume](/uploads/YuanmoHe_resume.pdf) (last updated 22 June 2024).
+Please find my [academic CV](/uploads/Yuanmo_He_Academic_CV.pdf) (last updated 19 Oct 2024) or [industry resume](/uploads/YuanmoHe_resume.pdf) (last updated 12 Nov 2024).
 
 I am a **stand-up comedian** in my free time. I also write blog posts in English and Chinese.
 - Stand-up info can be found on [Instagram](https://www.instagram.com/yuanmohe/) or [the Comedy page](https://yuanmohe.com/comedy/)
