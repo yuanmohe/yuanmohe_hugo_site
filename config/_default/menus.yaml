@@ -16,12 +16,13 @@ main:
   - name: Comedy
     url: '/comedy/'
     weight: 40
+  - name: Blog
+    url: https://yuanmohe.substack.com/
+    weight: 50
   - name: Poem
     url: '/poem/'
-    weight: 50  
-#   - name: Blog
-#     url: '/blog/'
-#     weight: 50
+    weight: 60  
+
 
 # Link to a PDF of your resume/CV from the menu.
 # To enable, copy your resume/CV to `static/uploads/resume.pdf` and uncomment the lines below.
