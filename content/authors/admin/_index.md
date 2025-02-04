@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Yuanmo He, PhD
+title: Dr Yuanmo He
 
 # Is this the primary user of the site?
 superuser: true
