@@ -13,5 +13,5 @@ header:
   image: ""
 ---
 
-He, Y., & Tsvetkova, M. (2025). A Method for Estimating Individual Socioeconomic Status of Twitter Users. Sociological Methods & Research, 54(1), 38–73. https://doi.org/10.1177/00491241231168665
+He, Y., & Tsvetkova, M. (2025). A Method for Estimating Individual Socioeconomic Status of Twitter Users. Sociological Methods & Research, 54(1), 38–73. https://journals.sagepub.com/doi/full/10.1177/00491241231168665
 
