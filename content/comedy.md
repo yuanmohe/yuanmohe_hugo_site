@@ -8,14 +8,16 @@ profile: false  # Show author profile?
 commentable: false  # Show comments?
 ---
 
-Format: Nth Time | Date Time | Which Set | Brief Notes | Location | Recordings if avaiable
+Format: Nth Time | Date Time | Which Set | Brief Notes | Location/occation | Recordings if avaiable
 
 
 ## Coming 
 
-Soon...
+10 | 2025 May 24 3-6pm | 7 min set | National Competition! | [So You Think You're Funny Competition Showcase](https://backyardcomedyclub.co.uk/event/link/?ceId=73cf7480-c448-477a-bb04-1bb97991d208), Backyard Comedy Club
 
 ## Done
+
+9 | 2025 April 03 | 7 min set and work-in-progress jokes | 7 min set to prep for SYTYF | Department of Methodology End of Term Party, LSE
 
 8 | 2024 October 25 FRI 6-8pm | My second set(5min) with small alterations | [LSE Chill](https://www.lse.ac.uk/Events/2024/10/202410251900/LSE-Chill) | Downstairs at the LSE Garrick
 
