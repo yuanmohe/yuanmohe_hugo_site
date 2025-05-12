@@ -8,7 +8,7 @@ profile: false  # Show author profile?
 commentable: false  # Show comments?
 ---
 
-# Invited talks
+## Invited talks
 
 Chair, Social Mobility Summit by 93% Club at LSE, UK. 27/05/2025.
 
@@ -19,7 +19,7 @@ Complex Systems Society Warm-up, Northeastern University in London, UK. 31/08/20
 
 Panellist, Q&A Panel with alumni, UCL Social Research Institute, UK. 21/05/2024.
 
-# Conference presentations
+## Conference presentations
 
 Millions of Mobile-tracked Visits Reveal Socioeconomic Inequality of Daily Consumption.
 - The Annual Meeting of the American Sociological Association (Section on Computational
