@@ -13,15 +13,18 @@ main:
   - name: Publications
     url: '/publications/'
     weight: 30
+  - name: Talks
+    url: '/talks/'
+    weight: 40
   - name: Comedy
     url: '/comedy/'
-    weight: 40
+    weight: 50
   - name: Blog
     url: https://yuanmohe.substack.com/
-    weight: 50
+    weight: 60
   - name: Poem
     url: '/poem/'
-    weight: 60  
+    weight: 70  
 
 
 # Link to a PDF of your resume/CV from the menu.
