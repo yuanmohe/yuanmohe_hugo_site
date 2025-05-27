@@ -13,9 +13,11 @@ Format: Nth Time | Date Time | Which Set | Brief Notes | Location/occation | Rec
 
 ## Coming 
 
-10 | 2025 May 24 3-6pm | 7 min set | National Competition! | [So You Think You're Funny Competition Showcase](https://backyardcomedyclub.co.uk/event/link/?ceId=73cf7480-c448-477a-bb04-1bb97991d208), Backyard Comedy Club
+Soon...
 
 ## Done
+
+10 | 2025 May 24 3-6pm | 7 min set | National Competition! | [So You Think You're Funny Competition Showcase](https://backyardcomedyclub.co.uk/event/link/?ceId=73cf7480-c448-477a-bb04-1bb97991d208), Backyard Comedy Club
 
 9 | 2025 April 03 | 7 min set and work-in-progress jokes | 7 min set to prep for SYTYF | Department of Methodology End of Term Party, LSE
 
