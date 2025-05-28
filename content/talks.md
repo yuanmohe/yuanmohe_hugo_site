@@ -10,7 +10,7 @@ commentable: false  # Show comments?
 
 ## Invited talks
 
-Chair, Social Mobility Summit by 93% Club at LSE, UK. 27/05/2025.
+Chair, LSESU 93% Club Social Mobility Summit, UK. 27/05/2025.
 
 Panellist, Alumni Panel and Networking Event: What I Did After Completing My Degree, UCL Social Research Institute, UK. 26/02/2025.
 
