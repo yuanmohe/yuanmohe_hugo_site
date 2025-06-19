@@ -1,6 +1,6 @@
 ---
 title: High Socioeconomic Status is Associated with Diverse Consumption across Brands and Price Levels
-summary: preprint on arXiv, submitted to a peer-reviewed journal
+summary: Preprint on arXiv; submitted to a top peer-reviewed journal
 # tags:
 #  - Deep Learning
 date: -2
