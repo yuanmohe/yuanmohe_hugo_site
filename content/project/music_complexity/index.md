@@ -1,6 +1,6 @@
 ---
-title: Music Complexity
-summary: Project at the Complex Systems Summer School 2023 
+# title: Music Complexity
+# summary: Project at the Complex Systems Summer School 2023 
 # tags:
 #   - NLP
 date: -3
@@ -11,4 +11,4 @@ profile: false  # Show author profile?
 commentable: false  # Show comments?
 
 ---
-To be updated
+# To be updated
