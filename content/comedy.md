@@ -23,7 +23,7 @@ Format: Nth Time | Date Time | Which Set | Location/occation | Brief notes if no
 
 8 | 2024 October 25 FRI 6-8pm | My second set(5min) with small alterations | [LSE Chill](https://www.lse.ac.uk/Events/2024/10/202410251900/LSE-Chill), downstairs at the LSE Garrick
 
-7 | 2024 June 18 7pm | My second set(5min) | **Open Mic Deput** 🥈 Very close runner-up out of 13 acts | [Comedy Virgins](https://www.thecav.uk/comedy), The Cavendish Arms
+7 | 2024 June 18 7pm | My second set(5min) | [Comedy Virgins](https://www.thecav.uk/comedy), The Cavendish Arms | **Open Mic Deput** 🥈 Very close runner-up out of 13 acts
 
 6 | 2024 March 26 | My second set(5min) + A roast section wrote specifically for this party | Department of Methodology End of Term Party, LSE
 
