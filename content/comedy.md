@@ -8,7 +8,7 @@ profile: false  # Show author profile?
 commentable: false  # Show comments?
 ---
 
-Format: Nth Time | Date Time | Which Set | Location/occation | Brief Notes if notable  | Recordings if available
+Format: Nth Time | Date Time | Which Set | Location/occation | Brief notes if notable  | Recordings if available
 
 
 ## Coming 
