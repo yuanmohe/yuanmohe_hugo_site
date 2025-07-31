@@ -21,6 +21,9 @@ Panellist, Q&A Panel with alumni, UCL Social Research Institute, UK. 21/05/2024.
 
 ## Conference presentations
 
+Socioeconomic Inequality in Social Capital and Communication Behaviours on Twitter.
+- Sunbelt Conference (International Network for Social Network Analysis), Paris, FR. 06/2025
+
 Millions of Mobile-tracked Visits Reveal Socioeconomic Inequality of Daily Consumption.
 - The Annual Meeting of the American Sociological Association (Section on Computational
 Sociology), Philadelphia, US. 08/2023.
