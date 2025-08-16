@@ -13,9 +13,11 @@ Format: Nth Time | Date Time | Which Set | Location/occation | Brief notes if no
 
 ## Coming 
 
-11 | 2025 August 13 4-5pm | 7 min set | [So You Think You're Funny? Semi-finals](https://tickets.gildedballoon.co.uk/event/14:5629/), Gilded Ballon Patter House
+
 
 ## Done
+
+11 | 2025 August 13 4-5pm | 7 min set | [So You Think You're Funny? Semi-finals](https://tickets.gildedballoon.co.uk/event/14:5629/), Gilded Ballon Patter House
 
 10 | 2025 May 24 3-6pm | 7 min set | [So You Think You're Funny Competition Showcase](https://backyardcomedyclub.co.uk/event/link/?ceId=73cf7480-c448-477a-bb04-1bb97991d208), Backyard Comedy Club | [Recording](https://www.youtube.com/watch?v=JCYde0pNVm4)
 
