@@ -10,6 +10,8 @@ commentable: false  # Show comments?
 
 ## Invited talks
 
+Chair, From Innovation to Governance: How AI is Shaping Global Connections, LSESU China Development Society, UK. 16/10/2025
+
 Chair, LSESU 93% Club Social Mobility Summit, UK. 27/05/2025.
 
 Panellist, Alumni Panel and Networking Event: What I Did After Completing My Degree, UCL Social Research Institute, UK. 26/02/2025.
@@ -22,6 +24,7 @@ Panellist, Q&A Panel with alumni, UCL Social Research Institute, UK. 21/05/2024.
 ## Conference presentations
 
 Socioeconomic Inequality in Social Capital and Communication Behaviours on Twitter.
+- The III at 10: New Directions in Inequality Research, London, UK. 09/2025
 - Sunbelt Conference (International Network for Social Network Analysis), Paris, FR. 06/2025
 
 Millions of Mobile-tracked Visits Reveal Socioeconomic Inequality of Daily Consumption.
