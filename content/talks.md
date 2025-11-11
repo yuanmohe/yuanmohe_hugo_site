@@ -10,6 +10,8 @@ commentable: false  # Show comments?
 
 ## Invited talks
 
+Panellist, PhD Access Panel Discussion, LSE Department of Methodology, UK. 17/11/2025
+
 Chair, From Innovation to Governance: How AI is Shaping Global Connections, LSESU China Development Society, UK. 16/10/2025
 
 Chair, LSESU 93% Club Social Mobility Summit, UK. 27/05/2025.
@@ -19,7 +21,21 @@ Panellist, Alumni Panel and Networking Event: What I Did After Completing My Deg
 Panellist, Coping with the demands of academia, Young Researchers of the
 Complex Systems Society Warm-up, Northeastern University in London, UK. 31/08/2024.
 
+Panellist, PhD x MSc Career Development Event, LSE Department of Methodology, UK. 16/10/2024.
+
 Panellist, Q&A Panel with alumni, UCL Social Research Institute, UK. 21/05/2024.
+
+Panellist, MSc-PhD event, LSE Department of Methodology, UK. 14/11/2023.
+
+Panellist, MSc ASDS professionalisation Seminar, LSE Department of Methodology, UK. 07/02/2023.
+
+Panellist, MSc ASDS Alumni Panel, LSE Department of Methodology, UK. 23/09/2022.
+
+Panellist, ASDS Professionalisation Seminar (Academic Routes). LSE Department of Methodology, UK. 18/03/2022.
+
+Panellist, ASDS Professionalisation Seminar - international PhD applications, LSE Department of Methodology, UK. 05/11/2020.
+
+Panellist, MSc ASDS Alumni Panel, LSE Department of Methodology, UK. 25/09/2020.
 
 ## Conference presentations
 
