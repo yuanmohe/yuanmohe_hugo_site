@@ -10,11 +10,15 @@ commentable: false  # Show comments?
 
 ## Invited talks
 
-Panellist, PhD Access Panel Discussion, LSE Department of Methodology, UK. 17/11/2025
+### Chairing
 
 Chair, From Innovation to Governance: How AI is Shaping Global Connections, LSESU China Development Society, UK. 16/10/2025
 
 Chair, LSESU 93% Club Social Mobility Summit, UK. 27/05/2025.
+
+### Career Development
+
+Panellist, PhD Access Panel Discussion, LSE Department of Methodology, UK. 17/11/2025
 
 Panellist, Alumni Panel and Networking Event: What I Did After Completing My Degree, UCL Social Research Institute, UK. 26/02/2025.
 
@@ -56,3 +60,5 @@ A Method for Estimating Individual Socioeconomic Status of Twitter Users.
 - General Online Research, online. 09/2021.
 - The Annual Meeting of the American Sociological Association (Section on Inequality, Poverty, and Mobility: New Approaches to Understanding and Addressing Inequality), online. 08/2021.
 - International Conference on Computational Social Science, online. 07/2021.
+
+
