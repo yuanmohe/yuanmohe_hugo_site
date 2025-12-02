@@ -25,21 +25,23 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:y.he54@lse.ac.uk'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/YuanmoHe
-- icon: github
-  icon_pack: fab
-  link: https://github.com/yuanmohe
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/yuanmo-he/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=i0NoSJUAAAAJ&hl=en&oi=ao
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-7827-5395
+- icon: github
+  icon_pack: fab
+  link: https://github.com/yuanmohe
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yuanmo-he/
+- icon: brands/Bluesky
+  url: https://bsky.app/profile/yuanmohe.bsky.social
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/YuanmoHe
 - icon: instagram
   icon_pack: fab
   link: https://www.instagram.com/yuanmohe/
@@ -65,11 +67,11 @@ I am a computational social scientist with expertise in identifying and employin
 
 I am currently a Fellow in Advanced Quantitative Methods at the [Department of Methodology](https://www.lse.ac.uk/methodology) and an Affiliate at the [Data Science Institute](https://www.lse.ac.uk/dsi) of the [London School of Economics and Political Science](https://www.lse.ac.uk/). I have a PhD in Social Research Methods from the same department. I hold an MSc in Applied Social Data Science from LSE and a BSc in Social Sciences from [University College London](https://www.ucl.ac.uk/). 
 
-In my current postdoc, I am teaching data science courses, developing research ideas on AI for social science, and publishing work from my PhD.
+In my current postdoc, I am teaching data science courses, developing research ideas in AI for social sciences, and publishing work from my PhD.
 
 My PhD dissertation uses large-scale digital trace data and advanced computational methods (e.g., machine learning, natural language processing, causal analysis, and social network analysis) to study how daily behaviours and social interactions reflect and reinforce socioeconomic inequality. The first paper of my PhD has been published in [Sociological Methods & Research](https://journals.sagepub.com/doi/10.1177/00491241231168665) (a top peer-reviewed journal in sociology and quantitative social science). The second paper of my PhD received an [honourable mention](https://ic2s2-2023.org/awards) at the 2023 International Conference on Computational Social Science.
 
-Please find my [academic CV](/uploads/Yuanmo_He_Academic_CV.pdf) (last updated 29 Sept 2025) or [industry resume](/uploads/YuanmoHe_resume.pdf) (last updated 31 July 2025).
+Please find my [academic CV](/uploads/Yuanmo_He_Academic_CV.pdf) (last updated 29 Nov 2025) or [industry resume](/uploads/YuanmoHe_resume.pdf) (last updated 31 July 2025).
 
 I am a stand-up comedian in my free time. I also write blog posts in English and Chinese.
 - Stand-up info can be found on [Instagram](https://www.instagram.com/yuanmohe/) or [the Comedy page](https://yuanmohe.com/comedy/)
