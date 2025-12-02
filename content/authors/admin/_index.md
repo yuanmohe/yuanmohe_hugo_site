@@ -37,7 +37,8 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yuanmo-he/
-- icon: Bluesky
+- icon: bluesky
+  icon_pack: fab
   link: https://bsky.app/profile/yuanmohe.bsky.social
 - icon: twitter
   icon_pack: fab
