@@ -18,23 +18,34 @@ bio: Postdoc and Stand-up Comedian.
 
 
 # Social/Academic Networking
-links:
-- icon: hero/envelope
-  url: mailto:y.he54@lse.ac.uk
-- icon: brands/google-scholar
-  url: https://scholar.google.co.uk/citations?user=i0NoSJUAAAAJ&hl=en&oi=ao
-- icon: brands/orcid
-  url: https://orcid.org/0000-0001-7827-5395
-- icon: brands/github
-  url: https://github.com/yuanmohe
-- icon: brands/linkedin
-  url: https://www.linkedin.com/in/yuanmo-he/
-- icon: brands/bluesky
-  url: https://bsky.app/profile/yuanmohe.bsky.social
-- icon: brands/x
-  url: https://twitter.com/YuanmoHe
-- icon: brands/instagram
-  url: https://www.instagram.com/yuanmohe/
+# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
+#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
+#   form "mailto:your-email@example.com" or "/#contact" for contact widget.
+social:
+- icon: envelope
+  icon_pack: fas
+  link: 'mailto:y.he54@lse.ac.uk'
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.co.uk/citations?user=i0NoSJUAAAAJ&hl=en&oi=ao
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0001-7827-5395
+- icon: github
+  icon_pack: fab
+  link: https://github.com/yuanmohe
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yuanmo-he/
+- icon: bluesky
+  icon_pack: brands
+  link: https://bsky.app/profile/yuanmohe.bsky.social
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/YuanmoHe
+- icon: instagram
+  icon_pack: fab
+  link: https://www.instagram.com/yuanmohe/
 
 
 # Link to a PDF of your resume/CV.
