@@ -1,7 +1,6 @@
 ---
 title: Resume
 Summary: Resume
-lastmod: true
 
 reading_time: true  # Show estimated reading time?
 share: false  # Show social sharing links?

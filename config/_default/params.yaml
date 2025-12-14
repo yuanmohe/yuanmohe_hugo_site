@@ -109,6 +109,9 @@ extensions:
   academicons:
     enable: true
 
+# Legacy analytics field (for compatibility)
+google_analytics: ''
+
 # Security
 
 security:

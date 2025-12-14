@@ -5,8 +5,6 @@ summmary: this is for testing
 categories: 
   - cate1
   - cate2
-lastmod: true
-publishDate: true
 
 ---
 
