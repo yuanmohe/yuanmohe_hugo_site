@@ -6,6 +6,9 @@
 title: Dr Yuanmo He # Website name
 baseURL: 'yuanmohe.com' # Website URL
 
+# Google Analytics (legacy field for template compatibility)
+googleAnalytics: ''
+
 ############################
 ## LANGUAGE
 ############################
