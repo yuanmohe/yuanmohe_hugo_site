@@ -100,3 +100,19 @@ ul.ul-edu li .description p.institution {
   font-size: 0.75rem;
   color: rgba(0, 0, 0, 0.6);
 }
+
+/*************************************************
+ *  Custom Bluesky icon (not in Font Awesome)
+ **************************************************/
+
+.fa-bluesky:before {
+  content: "";
+  display: inline-block;
+  width: 1em;
+  height: 1em;
+  background-image: url("/media/icons/brands/bluesky.svg");
+  background-size: contain;
+  background-repeat: no-repeat;
+  background-position: center;
+  vertical-align: middle;
+}
