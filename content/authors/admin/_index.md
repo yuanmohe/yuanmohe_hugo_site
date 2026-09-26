@@ -62,6 +62,8 @@ email: ""
 highlight_name: false
 ---
 
+This site is currently being updated to reflect my recent move to MrQ. Please check back soon.
+
 Hello, world! I am Yuanmo, a data scientist and a stand-up comedian.
 
 At MrQ, I use causal inference and agentic AI for business insights.
