@@ -62,17 +62,8 @@ email: ""
 highlight_name: false
 ---
 
-Hello, world! I am Yuanmo, an academic researcher and a stand-up comedian.
+Hello, world! I am Yuanmo, a data scientist and a stand-up comedian.
 
-I am a computational social scientist with expertise in identifying and employing the most effective data and methods to analyse social issues. I am interested in data science and AI, not only to harness their power but also to evaluate their social impacts. 
-
-I am currently a Fellow in Advanced Quantitative Methods at the [Department of Methodology](https://www.lse.ac.uk/methodology) and an Affiliate at the [Data Science Institute](https://www.lse.ac.uk/dsi) of the [London School of Economics and Political Science](https://www.lse.ac.uk/). I have a PhD in Computational Social Science from the same department. I hold an MSc in Applied Social Data Science from LSE and a BSc in Social Sciences from [University College London](https://www.ucl.ac.uk/). 
-
-In my current postdoc, I am teaching data science courses, developing research ideas in AI for social sciences, and publishing work from my PhD.
-
-My PhD dissertation uses large-scale digital trace data and advanced computational methods (e.g., machine learning, natural language processing, causal analysis, and social network analysis) to study how daily behaviours and social interactions reflect and reinforce socioeconomic inequality. The first paper of my PhD has been published in [Sociological Methods & Research](https://journals.sagepub.com/doi/10.1177/00491241231168665) (a top peer-reviewed journal in sociology and quantitative social science). The second paper of my PhD received an [honourable mention](https://ic2s2-2023.org/awards) at the 2023 International Conference on Computational Social Science.
-
-Please find my [academic CV](/uploads/Yuanmo_He_Academic_CV.pdf) (last updated 29 Nov 2025) or [industry resume](/uploads/YuanmoHe_resume.pdf) (last updated 31 July 2025).
 
 I am a stand-up comedian in my free time. I also write blog posts in English and Chinese.
 - Stand-up info can be found on [Instagram](https://www.instagram.com/yuanmohe/) or [the Comedy page](https://yuanmohe.com/comedy/)
