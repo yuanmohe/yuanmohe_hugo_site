@@ -6,15 +6,15 @@ title: Dr Yuanmo He
 superuser: true
 
 # Role/position/tagline
-role: Fellow in Advanced Quantitative Methods
+role: Data Scientist
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: London School of Economics
-  url: https://www.lse.ac.uk/Methodology/People/Academic-Staff/Yuanmo-He/Yuanmo-He
+- name: MrQ
+  url: https://mrq.com/
 
 # Short bio (displayed in user profile at end of posts)
-bio: Postdoc and Stand-up Comedian.
+bio: Data Scientist and Stand-up Comedian.
 
 
 # Social/Academic Networking
@@ -24,7 +24,7 @@ bio: Postdoc and Stand-up Comedian.
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'mailto:y.he54@lse.ac.uk'
+  link: 'mailto:yuanmohe@gmail.com'
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=i0NoSJUAAAAJ&hl=en&oi=ao
