@@ -11,7 +11,7 @@ role: Data Scientist
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: MrQ
-  url: https://mrq.com/
+  url: https://www.linkedin.com/company/mrq/about/
 
 # Short bio (displayed in user profile at end of posts)
 bio: Data Scientist and Stand-up Comedian.
@@ -25,18 +25,18 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:yuanmohe@gmail.com'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yuanmo-he/
+- icon: github
+  icon_pack: fab
+  link: https://github.com/yuanmohe
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=i0NoSJUAAAAJ&hl=en&oi=ao
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0001-7827-5395
-- icon: github
-  icon_pack: fab
-  link: https://github.com/yuanmohe
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/yuanmo-he/
 # - icon: bluesky
 #   icon_pack: fab
 #   link: https://bsky.app/profile/yuanmohe.bsky.social
