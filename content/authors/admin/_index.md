@@ -25,6 +25,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'mailto:yuanmohe@gmail.com'
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/yuanmo-he/
 - icon: google-scholar
   icon_pack: ai
   link: https://scholar.google.co.uk/citations?user=i0NoSJUAAAAJ&hl=en&oi=ao
@@ -34,9 +37,6 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/yuanmohe
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/yuanmo-he/
 # - icon: bluesky
 #   icon_pack: fab
 #   link: https://bsky.app/profile/yuanmohe.bsky.social
@@ -62,7 +62,7 @@ email: ""
 highlight_name: false
 ---
 
-This site is currently being updated to reflect my recent move to MrQ. Please check back soon.
+This site is currently being updated to reflect my recent move to MrQ.
 
 Hello, world! I am Yuanmo, a data scientist and a stand-up comedian.
 
