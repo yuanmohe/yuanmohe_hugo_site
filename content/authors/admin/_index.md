@@ -47,6 +47,26 @@ social:
   icon_pack: fab
   link: https://www.instagram.com/yuanmohe/
 
+education:
+  - degree: PhD Computational Social Science
+    institution: London School of Economics and Political Science
+    start: 2020-09
+    end: 2024-09
+#    summary: |
+#      Thesis on scaling laws for neural language models. Published 5 papers in NeurIPS and ICML.
+#    button:
+#      text: Download dissertation
+#      url: /resume.pdf
+#      icon: hero/arrow-down-tray
+  - degree: MSc Applied Social Data Science
+    institution: London School of Economics and Political Science
+    start: 2019-09
+    end: 2020-09
+  - degree: BSc Social Sciences
+    institution: University College London
+    start: 2016-09
+    end: 2019-06
+
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
